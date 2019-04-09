@@ -1,0 +1,6 @@
+epoch: 20
+batch: 64
+embed: 300
+unit: 300
+train_file: './dataset.txt'
+gpu: 0
