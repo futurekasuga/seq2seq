@@ -1,2 +1,4 @@
 # seq2seq
 アイドルマスターミリオンライブの七尾百合子の対話をデータにしたseq2seqのコードをあげる
+trainerとupdater使ってやろうとした残骸「train.py」と
+あきらめてchainer公式からもってきた動くやつ「seq2seq.py」
